@@ -4,6 +4,7 @@ info:
   version: 1.0.0
 servers:
   - url: http://localhost:4000
+  - url: https://secure-group-messaging-api.onrender.com/
 tags:
   - name: Auth
   - name: Groups
