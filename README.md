@@ -1,4 +1,9 @@
 # 📦 Secure Group Messaging API — Learning Yogi Assessment
+![Node](https://img.shields.io/badge/node-20.x-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express-4.x-black)
+![MongoDB Atlas](https://img.shields.io/badge/mongodb%20atlas-connected-brightgreen?logo=mongodb)
+![License: MIT](https://img.shields.io/badge/license-MIT-blue)
+![Render](https://img.shields.io/badge/deploy-Render-46E3B7?logo=render)
 
 A lightweight, secure, scalable backend API for group-based messaging with encryption, invite-based private access, membership workflows, simulated realtime message polling, and JWT-based authentication.
 
@@ -13,6 +18,9 @@ This project is built using:
 - **Polling-based realtime simulation**
 
 ---
+**Live API:** https://secure-group-messaging-api.onrender.com  
+**Docs:** https://secure-group-messaging-api.onrender.com/docs  
+**Deployed on:** Render • **DB:** MongoDB Atlas (user: `appuser`, role: readWrite on `learning_yogi_chat`)
 
 # 🚀 Features Overview
 
